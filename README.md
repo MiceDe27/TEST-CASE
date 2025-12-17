@@ -19,12 +19,13 @@ This project demonstrates **frontend–backend integration**, **CRUD operations*
 ---
 
 ## 🎥 System Demo Video
-- **Video Demo:** https://github.com/MiceDe27/TEST-CASE/main/TEST-CASE.mp4  
+- **Video Demo:**
+- [▶ Download / Watch Video](TEST-CASE.mp4)
 
 ### ▶️ Clickable Video Preview
 [![Inventory Management System Demo]
 [Watch the demo video]
-(https://github.com/MiceDe27/TEST-CASE/main/TEST-CASE.mp4)
+[▶ Download / Watch Video](TEST-CASE.mp4)
 
 
 > 📌 The demo video shows:
