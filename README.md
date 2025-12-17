@@ -1,4 +1,4 @@
-# 📦 Inventory Management System
+h# 📦 Inventory Management System
 
 A **Full-Stack CRUD Inventory Management System** developed as part of the BS Information System program.  
 This project demonstrates **frontend–backend integration**, **CRUD operations**, **software testing**, and **basic security evaluation** aligned with **ISO/IEC 25010** standards.
@@ -19,15 +19,13 @@ This project demonstrates **frontend–backend integration**, **CRUD operations*
 ---
 
 ## 🎥 System Demo Video
+- **Video Demo:** https://youtu.be/YOUR_VIDEO_ID_HERE  
 
 ### ▶️ Clickable Video Preview
+[![Inventory Management System Demo]
+[Watch the demo video]
+(https://raw.githubusercontent.com/MiceDe27/TEST-CASE/main/TEST-CASE.mp4)
 
-# Inventory Management System Demo
-
-<video width="100%" controls>
-  <source src="TEST-CASE.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 > 📌 The demo video shows:
 > - Product creation (POST)
